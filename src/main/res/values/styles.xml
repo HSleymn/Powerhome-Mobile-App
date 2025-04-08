@@ -1,0 +1,24 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Personnalisation de ton thème -->
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="ToolbarStyle" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">#000000</item> <!-- Couleur noire -->
+        <item name="android:titleTextColor">#FFFFFF</item> <!-- Couleur du texte en blanc -->
+        <item name="colorControlNormal">#FFFFFF</item> <!-- Couleur du bouton du Drawer en blanc -->
+    </style>
+
+    <style name="NavigationViewStyle" parent="Widget.Design.NavigationView">
+        <item name="android:background">#000000</item> <!-- Couleur noire -->
+        <item name="android:textColor">#FFFFFF</item> <!-- Couleur du texte en blanc -->
+    </style>
+
+    <style name="MenuItemStyle">
+        <item name="android:textColor">@color/white </item> <!-- Utilise la couleur rouge -->
+    </style>
+
+
+</resources>

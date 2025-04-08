@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+    <Spinner
+        android:id="@+id/spinner_appliances"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <android.widget.CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:dateTextAppearance="@android:style/TextAppearance.Medium" />
+
+    <Button
+        android:id="@+id/btn_confirm_reservation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Confirmer la réservation" />
+</LinearLayout>

@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_habitats"
+        android:title="Liste des habitats"
+          />
+    <item
+        android:id="@+id/nav_my_habitat"
+        android:title="Mon habitat"
+        />
+    <item
+        android:id="@+id/nav_notifications"
+        android:title="Mes notifications"
+         />
+    <item
+        android:id="@+id/nav_preferences"
+        android:title="Mes préférences"
+          />
+    <item
+        android:id="@+id/nav_about"
+        android:title="A propos"
+         />
+    <item
+        android:id="@+id/log_out"
+        android:title="Déconnexion"
+
+        />
+
+
+
+</menu>

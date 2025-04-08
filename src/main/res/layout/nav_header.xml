@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#000000"
+    android:orientation="vertical"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:paddingTop="30dp"
+    android:paddingLeft="21dp"
+
+    >
+    <!-- Contenu du HeaderView -->
+
+<TextView
+        android:id="@+id/nav_header_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PowerHome"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:paddingBottom="4dp"
+    />
+
+    <TextView
+        android:id="@+id/nav_header_subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gestion de résidence"
+        android:textColor="@android:color/white"
+        android:paddingBottom="10dp"
+        />
+</LinearLayout>
