@@ -17,8 +17,5 @@ Powerhome est une application mobile Android qui gère les réservations d'appar
 ## Auteurs
 * **HADJ MESSAOUD Souleymane** _alias_ [@HSleymn]([https://github.com/outout14](https://github.com/HSleymn))
 
-## License
-
-Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
 
 
